@@ -1,0 +1,10 @@
+2025-05-20 22:14:30,266 - ERROR - Database name not specified
+2025-05-20 22:15:14,251 - ERROR - Database name not specified
+2025-05-20 22:20:59,393 - INFO - Successfully connected to database: assignment1
+2025-05-20 22:20:59,548 - INFO - Successfully executed SQL file: add_table.sql
+2025-05-20 22:20:59,549 - INFO - Deployment completed successfully
+2025-05-20 22:20:59,551 - INFO - Database connection closed
+2025-05-20 22:37:56,720 - INFO - Successfully connected to database: assignment1
+2025-05-20 22:37:56,773 - INFO - Successfully executed SQL file: add_table.sql
+2025-05-20 22:37:56,774 - INFO - Deployment completed successfully
+2025-05-20 22:37:56,776 - INFO - Database connection closed

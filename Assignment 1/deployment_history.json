@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2025-05-20T22:20:59.545027",
+        "sql_file": "add_table.sql",
+        "status": "success"
+    },
+    {
+        "timestamp": "2025-05-20T22:37:56.770352",
+        "sql_file": "add_table.sql",
+        "status": "success"
+    }
+]

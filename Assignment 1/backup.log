@@ -1,0 +1,9 @@
+2025-05-20 18:15:58,257 - INFO - Created backup directory: mysql_backups
+2025-05-20 18:15:58,286 - ERROR - An error occurred: [WinError 2] The system cannot find the file specified
+2025-05-20 21:52:10,453 - ERROR - An error occurred: [WinError 2] The system cannot find the file specified
+2025-05-20 21:52:34,991 - ERROR - An error occurred: [WinError 2] The system cannot find the file specified
+2025-05-20 21:59:42,408 - ERROR - An error occurred: [WinError 2] The system cannot find the file specified
+2025-05-20 22:10:42,610 - INFO - Successfully created backup for assignment1: mysql_backups\assignment1_20250520_221041.sql
+2025-05-20 22:10:42,611 - INFO - Successfully created 1 backups
+2025-05-20 22:37:31,053 - INFO - Successfully created backup for assignment1: mysql_backups\assignment1_20250520_223730.sql
+2025-05-20 22:37:31,055 - INFO - Successfully created 1 backups
